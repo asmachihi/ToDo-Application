@@ -1,0 +1,26 @@
+.task {
+    color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin-left: 200px;
+
+}
+p{
+    font-size:x-large;
+    padding-block: 3px;
+    margin: 27px;
+}
+li{
+    list-style-type: none;
+    margin: 45px;
+}
+input{
+    background: border-box;
+    
+    border-top: none;
+    width: 400px;
+    height: 30px;
+}
